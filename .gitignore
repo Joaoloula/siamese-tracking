@@ -1,2 +1,10 @@
+kitti/dataset/
 mnist/dataset/
-mnist/transformed_dataset/
+mnist/new_dataset/
+mnist/model/snapshots/
+mnist/model/logs/
+*.h5
+*.py
+*.ipynb
+*.swp
+snapshots*
